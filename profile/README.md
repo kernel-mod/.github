@@ -1,0 +1,29 @@
+# Kernel
+
+A super small and fast Electron client mod with the most capability.
+
+## Repositories
+
+### [electron](https://github.com/kernel-mod/electron)
+
+This has the code for hooking into Electron.
+
+It is the main repository.
+
+### [browser](https://github.com/kernel-mod/browser)
+
+This has the code that can run solely in the browser.
+
+It is used in the [`electron`](https://github.com/kernel-mod/electron) repository and will be used for the extension eventually.
+
+### [installer-cli](https://github.com/kernel-mod/installer-cli)
+
+This is the CLI-based installer for Kernel which is written in Zig.
+
+### [installer-gui](https://github.com/kernel-mod/installer-gui)
+
+This is the GUI-based installer for Kernel which is written with Electron.
+
+### [website](https://github.com/kernel-mod/website)
+
+This has the code for the website of Kernel.
