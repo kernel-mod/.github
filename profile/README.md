@@ -6,7 +6,7 @@ A super small and fast Electron client mod with the most capability.
 
 Join on [Discord](https://discord.gg/8mPTjTZ4SZ) or [Matrix](https://matrix.to/#/!iWdiwStUmqwDcNfYbG:bigdumb.gq?via=bigdumb.gq&via=catvibers.me&via=matrix.org).
 
-Chat on [GitHub Discussions](https://github.com/kernel-mod/discussions/discussions).
+Chat on [GitHub Discussions](https://github.com/orgs/kernel-mod/discussions).
 
 ## Repositories
 
